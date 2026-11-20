@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "Si utilizas este proyecto, cita este repositorio."
 type: software
 title: "Chesscraping"
+repository-code: "https://github.com/MartinAI100/Chesscraping"
 authors:
   - family-names: "García Navarro"
     given-names: "Martín José"

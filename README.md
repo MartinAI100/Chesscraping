@@ -13,7 +13,7 @@ El notebook `chesscraping.ipynb` incluye una celda inicial para configurar rutas
 
 ## Cita
 
-Si utilizas este proyecto, cita el repositorio como **García Navarro, Martín José. Chesscraping**. Los metadatos de cita también están disponibles en `CITATION.cff`.
+Si utilizas este proyecto, cita el repositorio como **García Navarro, Martín José. [Chesscraping](https://github.com/MartinAI100/Chesscraping)**. Los metadatos de cita también están disponibles en `CITATION.cff`.
 
 ## Licencia
 
