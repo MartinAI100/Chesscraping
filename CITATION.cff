@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Si utilizas este proyecto, cita este repositorio."
+type: software
+title: "Chesscraping"
+authors:
+  - family-names: "García Navarro"
+    given-names: "Martín José"
